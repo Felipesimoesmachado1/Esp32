@@ -27,4 +27,4 @@ void scanLocalNetworks();{
     }
     Serial.printf("Número de redes encontradas: %d\n", number);
   }
-}
+}       
